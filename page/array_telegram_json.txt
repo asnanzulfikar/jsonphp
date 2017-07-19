@@ -1,0 +1,12 @@
+array(1) { 
+[0]=> array(2) {
+ 	["ok"]=> bool(true) ["result"]=> array(5) {
+ 	 							["message_id"]=> int(332) ["from"]=> array(3) {
+ 	 										 ["id"]=> int(369348634) ["first_name"]=> string(11) "w4rl0ck_bot" ["username"]=> string(11) "w4rl0ck_bot" } ["chat"]=> array(4) {
+ 	 										 			 	["id"]=> int(248735818) ["first_name"]=> string(14) "Asnan Zulfikar" ["last_name"]=> string(8) "Ardianto" ["type"]=> string(7) "private" 
+ 	 										 			 } 
+ 	 										 			 
+ 	 										 			 ["date"]=> int(1496474310) ["text"]=> string(17) "button is pressed" 
+ 	 	} 
+ 	} 
+} 
